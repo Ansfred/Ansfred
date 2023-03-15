@@ -1,8 +1,11 @@
-## Hey 👋 I'm Ansfred D'Souza! 😊
+# Hey 👋 I'm Ansfred D'Souza! 😊
 
-<br/>
 
 ## Python | Full Stack Web Development | Google Cloud
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ansfred&theme=tokyonight&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+<br/>
+<br/>
 
 <p align="left">
   <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ansfred&theme=tokyonight"/>
@@ -23,7 +26,6 @@
 
 [![@ansfreddsouza's Holopin board](https://holopin.me/ansfreddsouza)](https://holopin.io/@ansfreddsouza)
 
-<br/>
 <br/>
 
 ![Profile Visitors](https://visitor-badge.laobi.icu/badge?page_id=Ansfred.Ansfred)
