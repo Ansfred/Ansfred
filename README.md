@@ -2,7 +2,7 @@
 
 
 ## Python | Full Stack Web Development | Google Cloud
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ansfred&theme=tokyonight&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <br/>
 <br/>
